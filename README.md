@@ -1,9 +1,9 @@
-## text fade In &amp; fade Out CSS UI Created By NorthFox Developers
+## Text Fade In &amp; fade Out CSS UI Created By NorthFox Developers
 
 ##### 📫 Connect with me here:<br />
  <br />
  <p>
-  <a href="https://www.instagram.com/princu09">
+  <a href="https://www.instagram.com/princu.09">
     <img src="https://img.shields.io/badge/princu.09-386938188?style=flat&logo=instagram&color=black">
   </a> &nbsp; 
   <a href="https://twitter.com/princu09">
